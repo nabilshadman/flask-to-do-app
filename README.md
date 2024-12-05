@@ -74,15 +74,28 @@ The application will be available at `http://localhost:5000`
 1. Click the "Delete" button next to the task
 2. Confirm deletion in the prompt
 
+
 ## 🖼️ Screenshots
 
-| Home Page | Add Task |
-|-----------|----------|
-| ![Home Page](demo/0_index_0.jpg) | ![Add Task](demo/1_add_1.jpg) |
+<table width="100%">
+<tr>
+<td width="50%"><strong>Home Page</strong></td>
+<td width="50%"><strong>Add Task</strong></td>
+</tr>
+<tr>
+<td><img src="demo/0_index_0.jpg" width="100%"></td>
+<td><img src="demo/1_add_1.jpg" width="100%"></td>
+</tr>
+<tr>
+<td><strong>Edit Task</strong></td>
+<td><strong>Delete Task</strong></td>
+</tr>
+<tr>
+<td><img src="demo/2_edit_1.jpg" width="100%"></td>
+<td><img src="demo/3_delete_1.jpg" width="100%"></td>
+</tr>
+</table>
 
-| Edit Task | Delete Task |
-|-----------|-------------|
-| ![Edit Task](demo/2_edit_1.jpg) | ![Delete Task](demo/3_delete_1.jpg) |
 
 ## 📁 Project Structure
 ```
